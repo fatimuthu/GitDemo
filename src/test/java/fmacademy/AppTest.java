@@ -24,7 +24,11 @@ public class AppTest
         System.out.println("test2 from India");
         //new update from US and from develp branch
         System.out.println("test3 from US develop branch");
+      //test master
+        System.out.println("test3 from india master branch");
     }
+    
+    
 
     /**
      * @return the suite of tests being tested
