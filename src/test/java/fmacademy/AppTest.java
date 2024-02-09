@@ -19,6 +19,9 @@ public class AppTest
     {
         super( testName );
         System.out.println("test1 from US");
+        
+        //from india update:
+        System.out.println("test2 from India");
     }
 
     /**
